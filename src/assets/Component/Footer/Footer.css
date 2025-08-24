@@ -1,0 +1,10 @@
+p{
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    background : linear-gradient(45deg,cyan,black);
+    /* background-color: black; */
+    color: white;
+    /* text-size-adjust: bold; */
+    font-weight: bold;
+}
